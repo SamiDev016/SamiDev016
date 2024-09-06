@@ -1,13 +1,13 @@
 # Hi there, I'm Adel Sami 👋 (THE BEST MOBILE DEV EVER)
 
 ## 👨‍💻 About Me
-I'm a 22-year-old Software Engineering student currently pursuing my Master’s degree. I specialize in mobile development with Flutter and have backend experience with Node.js and Laravel. I’m also proficient in PHP, JavaScript, Python, MongoDB, and MySQL, though my primary focus is on mobile development.
+I'm a 22-year-old Software Engineering student currently pursuing my Master’s degree. I specialize in mobile development with Flutter and have backend experience with Laravel. I’m also proficient in PHP, JavaScript, Python, MongoDB, and MySQL, though my primary focus is on mobile development.
 
 ## 🛠️ Skills
 - **Mobile Development:** Flutter
-- **Backend Technologies:** Node.js, Laravel
+- **Backend Technologies:** Laravel
 - **Languages:** PHP, JavaScript, Python
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL, Pgsql
 
 ## 🌟 Projects
 - **Small Projects:** I’ve worked on several small projects to sharpen my skills and gain practical experience.
