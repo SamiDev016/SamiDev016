@@ -26,7 +26,7 @@ I'm a 22-year-old Software Engineering student currently pursuing my Master’s 
   - Proactively maintained and enhanced projects to ensure long-term reliability and efficiency.  
 
 ## 📝 Resume
-- [View My Resume (PDF)](./CV_2025-01-24_Ibrahim Sami_Adel.pdf)  
+- [View My Resume (PDF)](https://github.com/samidev016/samidev016/blob/main/CV_2025-01-24_Ibrahim%20Sami_Adel.pdf)
 
 ## 🌐 Portfolio
 - [Check Out My Portfolio](https://samidev016.github.io/SamiPorftoflio/)  
