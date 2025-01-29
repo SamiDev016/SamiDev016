@@ -3,14 +3,14 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=600&lines=Flutter+%7C+Laravel+%7C+Vue.js+%7C+Angular+%7C+Full-Stack+Dev;Passionate+about+mobile+and+web+development;I+love+building+great+apps!+💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=600&lines=Flutter+%7C+Laravel+%7C+Vue.js+%7C+%7C+Full-Stack+Dev;Passionate+about+mobile+and+web+development;I+love+building+great+apps!+💻" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 🔹 Passionate **Full-Stack Developer** with expertise in **Flutter & Laravel**.  
-🔹 Experienced in **Frontend (Vue.js, Angular, AJAX, Bootstrap, Tailwind CSS)**.  
+🔹 Experienced in **Frontend (Vue.js,  AJAX, Bootstrap, Tailwind CSS)**.  
 🔹 Backend experience in **PHP, JavaScript, Python, MySQL, PostgreSQL, MongoDB**.  
 🔹 I focus on building **high-performance and scalable applications**.  
 
@@ -26,7 +26,6 @@
 💻 **Web Development**:  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 
 💾 **Databases**:  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
