@@ -1,18 +1,18 @@
-<h1 align="center"> Hi there, I'm Adel Sami 👋 </h1>
+<h1 align="center">Hi there, I'm Adel Sami 👋</h1>
 <h3 align="center">🚀 THE BEST MOBILE DEV EVER 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=600&lines=Flutter+%7C+Laravel+%7C+Vue.js+%7C+Full-Stack+Dev;Passionate+about+mobile+and+web+development;I+love+building+great+apps!+💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&width=600&lines=Flutter+%7C+Laravel+%7C+Vue.js+%7C+ERPNext+%7C+Full-Stack+Dev;Passionate+about+mobile+and+web+development;I+love+building+great+apps!+💻" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-🔹 Passionate **Full-Stack Developer** with expertise in **Flutter & Laravel**.  
-🔹 Experienced in **Frontend (Vue.js, AJAX, Bootstrap, Tailwind CSS)**.  
-🔹 Backend experience in **PHP, JavaScript, Python, MySQL, PostgreSQL, MongoDB**.  
-🔹 I focus on building **high-performance and scalable applications**.  
+🔹 Passionate **Full-Stack Developer** with expertise in **Flutter**, **Laravel**, and **ERPNext**  
+🔹 Experienced in **Frontend**: Vue.js, AJAX, Bootstrap, Tailwind CSS  
+🔹 Skilled in **Backend**: PHP, Python, JavaScript, MySQL, PostgreSQL, MongoDB  
+🔹 Focused on building **high-performance, scalable, and maintainable applications**  
 
 ---
 
@@ -20,52 +20,61 @@
 
 <div align="center">
 
-🚀 **Mobile Development**:  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+🚀 **Mobile Development**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-💻 **Web Development**:  
+💻 **Web Development**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 
-💾 **Databases**:  
+💼 **ERP Development**  
+![ERPNext](https://img.shields.io/badge/ERPNext-4B4BFF?style=for-the-badge&logo=frappe&logoColor=white)  
+✔️ Custom ERP modules  
+✔️ Built with **Frappe** & **Python**  
+✔️ Created and maintained apps in **ERPNext** ecosystem  
+
+💾 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Projects & Experiences  
+## 🌟 Projects & Experience
+
+### 🔹 **ERPNext Developer**  
+📌 Built custom ERP modules and apps using **Frappe Framework** and **Python**  
+🛠️ Implemented business workflows, doctypes, and custom scripts for real-world ERP needs  
 
 ### 🔹 **Stage Pratique**  
-📌 **Naal El Mouhamadia** - Developed a **web application** for employee career management.  
-🛠 **Tech Stack:** Laravel, MySQL  
+📌 **Naal El Mouhamadia** – Developed a web application for employee career management  
+🛠 **Laravel, MySQL**
 
-### 🔹 **Développeur Laravel**  
-📌 **Tech It Away Tizi Ouzou** - Created a **banking transactions management system**.  
-🛠 **Tech Stack:** Laravel, PostgreSQL  
+### 🔹 **Laravel Developer**  
+📌 **Tech It Away – Tizi Ouzou** – Built a banking transaction management platform  
+🛠 **Laravel, PostgreSQL**
 
-### 🔹 **Freelance Mobile & Web Developer**  
-📌 **Sedra Tech, Rouiba, Alger**  
-- 🛒 **Developed the multi-store e-commerce platform [Jexdé](http://jexdé.com/)**.  
-- 🎯 **Optimized & improved [ModernDZ](http://moderndz.com/)** for better user experience.  
-- 📱 **Designed, developed, and launched the mobile app Bazness**.  
-- 🔧 **Long-term project maintenance & optimizations**.  
+### 🔹 **Freelance Developer** @ Sedra Tech  
+- 🛒 Built the multi-store eCommerce platform **[Jexdé](http://jexdé.com/)**  
+- 🎯 Optimized **[ModernDZ](http://moderndz.com/)** for better UX & speed  
+- 📱 Launched the business app **Bazness**  
+- 🔧 Maintained projects with continuous improvements
 
 ---
 
 ## 📝 Resume  
-📄 **[View My Resume (PDF)](https://github.com/samidev016/samidev016/blob/main/CV_2025-01-24_Ibrahim%20Sami_Adel.pdf)**  
+📄 [**View My Resume (PDF)**](https://github.com/samidev016/samidev016/blob/main/CV_2025-01-24_Ibrahim%20Sami_Adel.pdf)
 
 ---
 
 ## 🌐 Portfolio  
-🌎 **[Check Out My Portfolio](https://samidev016.github.io/SamiPorftoflio/)**  
+🌎 [**Visit My Portfolio**](https://samidev016.github.io/SamiPorftoflio/)
 
 ---
 
-## 📫 Contact Me  
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:adelim0555@gmail.com">
@@ -78,4 +87,4 @@
 
 ---
 
-🔥 **Thanks for visiting my profile! Let's build something amazing together!** 🚀  
+🔥 **Thanks for visiting my profile! Let’s build something amazing together.** 🚀
