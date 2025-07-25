@@ -88,7 +88,7 @@ University of Boumerdes (2019 – 2025)
 
 ## 📝 Resume  
 
-📄 [**Download Resume (PDF)**](https://github.com/samidev016/samidev016/blob/main/my_resume.pdf)
+📄 [**Download Resume (PDF)**](https://github.com/samidev016/samidev016/blob/main/My_Resume.pdf)
 
 ---
 
