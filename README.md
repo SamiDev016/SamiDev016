@@ -81,7 +81,7 @@
 
 🎓 **Master’s Degree in Software Engineering**  
 University of Boumerdes (2019 – 2025)  
-- Final year project: Laravel-based full-stack application  
+- Final year project: AstroJS|NestJS full-stack application  
 - Focus on software architecture, databases, and OOP
 
 ---
